@@ -1,0 +1,16 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "kiran",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.16",
+    "touch-cli": "^0.0.1"
+  }
+}
